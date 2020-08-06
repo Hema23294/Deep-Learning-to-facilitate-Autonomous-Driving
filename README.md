@@ -77,7 +77,7 @@ Learning Rate=1e-3
 
 Accuracy for metrics
 
-##Final Architecture
+## Final Architecture
 
 ![image info](Capture1.JPG)
 
