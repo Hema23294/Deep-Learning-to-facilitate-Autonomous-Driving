@@ -1,4 +1,4 @@
-# Behavioral-Cloning-for-Autonomous-Driving
+# Deep Learning to facilitate Autonomous Driving
 
 ## The goals / steps of this project are the following:
 
